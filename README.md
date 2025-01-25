@@ -11,7 +11,7 @@ Restaurant Website
 - Member 3: ROSHNY JOHNSON- RAJIV GANDHI INSTITUTE OF TECHNOLOGY,KOTTAYAM
 
 ### Hosted Project Link
-http://127.0.0.1:5500/Project5/index.html
+https://shreyaclarisjustin.github.io/TinkHerHack---main/Project5/
 
 ### Project Description
 We have bulit a webpage for an online food ordering system for a restaurant named FOOD DIARIES.The homepage consits the features of the restaurant including fast delivery,discounts offered and so on.The menu button is placed in the homepage which leads to the subpage that contains food items that the restaurant offers.Clicking on "place order"leads to the further details.
